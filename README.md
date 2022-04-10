@@ -12,7 +12,7 @@ White point: 6500K
 
 Observer: CIE 2012 2 Degrees
 
-### General rule of thumb
+### General rules of thumb
 I'm not working with prints or any other professional colour-related work. This is just for gaming & media enjoyment. 
 
 Hence, I calibrate to 2012-2 rather than the still-standard 1932-2.
